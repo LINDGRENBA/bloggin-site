@@ -17,7 +17,7 @@ h1, h2 {
   font-family: 'Liu Jian Mao Cao', cursive;
 }
 
-h2 {
+.meal h2 {
   margin-left: 25px;
   padding-left: 50px;
 }
@@ -25,6 +25,8 @@ h2 {
 .meal {
   /* margin: 15px; */
   padding-top: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .meal p {
